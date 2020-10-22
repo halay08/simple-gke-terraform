@@ -1,0 +1,9 @@
+# Terraform state files, it will be stored on GCS instead.
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform source modules, plugins,...
+.terraform
+
+# Configuration
+generated/kubeconfig

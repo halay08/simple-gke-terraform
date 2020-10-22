@@ -1,0 +1,6 @@
+project_id         = "<PROJECT ID>"
+region             = "<GKE REGION>"
+cluster_name       = "<CLUSTER NAME>"
+kubernetes_version = "1.15.12-gke.20"
+network_name       = "<NETWORK NAME>"
+domain             = "<DOMAIN>"
